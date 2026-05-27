@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4082:4082",
+  "name": "4082",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4082.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4082/",
+  "part_path": "parts/4082",
+  "symbol_file": "parts/4082/4082.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:00:17.595Z"
+}
