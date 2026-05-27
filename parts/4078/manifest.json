@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4078:4078",
+  "name": "4078",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4078.kicad_sym",
+  "description": "8-input OR/NOR gate",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/cd4078b.pdf",
+  "keywords": "cmos",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4078/",
+  "part_path": "parts/4078",
+  "symbol_file": "parts/4078/4078.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:00:12.170Z"
+}
