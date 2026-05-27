@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4556:4556",
+  "name": "4556",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4556.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4556/",
+  "part_path": "parts/4556",
+  "symbol_file": "parts/4556/4556.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:01:35.676Z"
+}
