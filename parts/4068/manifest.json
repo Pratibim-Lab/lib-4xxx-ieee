@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4068:4068",
+  "name": "4068",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4068.kicad_sym",
+  "description": "CMOS 8-input NAND/AND Gate",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/cd4068b.pdf",
+  "keywords": "cmos nand and 8-input",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4068/",
+  "part_path": "parts/4068",
+  "symbol_file": "parts/4068/4068.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:59:52.370Z"
+}
