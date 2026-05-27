@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/40244:40244",
+  "name": "40244",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/40244.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "40240",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/40244/",
+  "part_path": "parts/40244",
+  "symbol_file": "parts/40244/40244.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:58:58.373Z"
+}
