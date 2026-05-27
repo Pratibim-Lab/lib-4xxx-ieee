@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/40374:40374",
+  "name": "40374",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/40374.kicad_sym",
+  "description": "8-bit D-flip-flop with 3-State outputs",
+  "datasheet": "https://www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB",
+  "keywords": "CMOS BUFFER 3State",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/40374/",
+  "part_path": "parts/40374",
+  "symbol_file": "parts/40374/40374.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:59:17.639Z"
+}
