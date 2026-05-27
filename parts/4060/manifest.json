@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4060:4060",
+  "name": "4060",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4060.kicad_sym",
+  "description": "Binary counter (14-stages) and oscillator",
+  "datasheet": "https://www.st.com/resource/en/datasheet/m74hc4060.pdf",
+  "keywords": "binary counter oscillator",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4060/",
+  "part_path": "parts/4060",
+  "symbol_file": "parts/4060/4060.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:59:47.918Z"
+}
