@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/40106:40106",
+  "name": "40106",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/40106.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/40106/",
+  "part_path": "parts/40106",
+  "symbol_file": "parts/40106/40106.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:57:57.937Z"
+}
