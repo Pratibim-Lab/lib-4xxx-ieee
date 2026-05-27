@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/40161:40161",
+  "name": "40161",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/40161.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "4161",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/40161/",
+  "part_path": "parts/40161",
+  "symbol_file": "parts/40161/40161.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T03:58:18.876Z"
+}
