@@ -1,0 +1,17 @@
+{
+  "id": "4xxx_IEEE/4504:4504",
+  "name": "4504",
+  "library": "4xxx_IEEE",
+  "file": "4xxx_IEEE.kicad_symdir/4504.kicad_sym",
+  "description": "4504 Hex Voltage-level Shifter",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/cd4504b.pdf",
+  "keywords": "cmos, level converter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-4xxx-ieee@master/parts/4504/",
+  "part_path": "parts/4504",
+  "symbol_file": "parts/4504/4504.kicad_sym",
+  "source_library": "4xxx_IEEE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:00:52.089Z"
+}
